@@ -9,3 +9,14 @@ C:\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\
 C:\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
 C:\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.dll
 C:\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\user\visualStudio\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.pdb

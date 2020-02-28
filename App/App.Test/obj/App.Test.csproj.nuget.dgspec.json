@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj": {}
+    "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj": {
+    "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
+        "projectUniqueName": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
         "projectName": "App.Test",
-        "projectPath": "C:\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
-        "packagesPath": "C:\\Users\\Nuchem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\obj\\",
+        "projectPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nuchem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
