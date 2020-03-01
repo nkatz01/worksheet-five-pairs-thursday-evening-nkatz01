@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[16.2.0, )"
             },
+            "NetSpell": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[1.0.1, )"
