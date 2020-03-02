@@ -387,15 +387,6 @@
           "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
         }
       },
-      "NetSpell/2.1.7": {
-        "type": "package",
-        "compile": {
-          "lib/NetSpell.SpellChecker.dll": {}
-        },
-        "runtime": {
-          "lib/NetSpell.SpellChecker.dll": {}
-        }
-      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2660,28 +2651,6 @@
         "lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml",
         "mstest.testframework.2.0.0.nupkg.sha512",
         "mstest.testframework.nuspec"
-      ]
-    },
-    "NetSpell/2.1.7": {
-      "sha512": "aYgExP8R1uOXUCBlbvDTX/t9VL0SBRy/BiZRlf6V3ZTJNZpXBQD7ZmbBdI5PewUG4Bo6uF2KQKqIZyA0znfhJw==",
-      "type": "package",
-      "path": "netspell/2.1.7",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "dic/de-DE.dic",
-        "dic/en-AU.dic",
-        "dic/en-CA.dic",
-        "dic/en-GB.dic",
-        "dic/en-US.dic",
-        "dic/es-ES.dic",
-        "dic/es-MX.dic",
-        "dic/fr-FR.dic",
-        "dic/it-IT.dic",
-        "lib/NetSpell.SpellChecker.dll",
-        "lib/NetSpell.SpellChecker.xml",
-        "netspell.2.1.7.nupkg.sha512",
-        "netspell.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -6832,30 +6801,27 @@
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
-      "NetSpell >= 2.1.7",
       "coverlet.collector >= 1.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Nuchem\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
+      "projectUniqueName": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
       "projectName": "App.Test",
-      "projectPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\obj\\",
+      "projectPath": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\App.Test.csproj",
+      "packagesPath": "C:\\Users\\Nuchem\\.nuget\\packages\\",
+      "outputPath": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nuchem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6892,10 +6858,6 @@
             "target": "Package",
             "version": "[16.2.0, )"
           },
-          "NetSpell": {
-            "target": "Package",
-            "version": "[2.1.7, )"
-          },
           "coverlet.collector": {
             "target": "Package",
             "version": "[1.0.1, )"
@@ -6916,20 +6878,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'NetSpell 2.1.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "NetSpell",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

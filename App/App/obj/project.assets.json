@@ -75,25 +75,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Nuchem\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\App.csproj",
+      "projectUniqueName": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\App.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\visualStudio\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\obj\\",
+      "projectPath": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\Nuchem\\.nuget\\packages\\",
+      "outputPath": "\\\\CS00041648\\c$\\Users\\Nuchem\\Documents\\worksheet-five-pairs-thursday-evening-nkatz01\\App\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nuchem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -138,7 +136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

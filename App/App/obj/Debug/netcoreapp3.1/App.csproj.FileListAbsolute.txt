@@ -34,3 +34,16 @@ C:\Users\user\visualStudio\worksheetfivepairsthursdayeveningnkatz01\App\App\obj\
 C:\Users\user\visualStudio\worksheetfivepairsthursdayeveningnkatz01\App\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
 C:\Users\user\visualStudio\worksheetfivepairsthursdayeveningnkatz01\App\App\obj\Debug\netcoreapp3.1\App.dll
 C:\Users\user\visualStudio\worksheetfivepairsthursdayeveningnkatz01\App\App\obj\Debug\netcoreapp3.1\App.pdb
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.exe
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.dll
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\App.pdb
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\bin\Debug\netcoreapp3.1\WeCantSpell.Hunspell.dll
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.dll
+\\CS00041648\c$\Users\Nuchem\Documents\worksheet-five-pairs-thursday-evening-nkatz01\App\App\obj\Debug\netcoreapp3.1\App.pdb

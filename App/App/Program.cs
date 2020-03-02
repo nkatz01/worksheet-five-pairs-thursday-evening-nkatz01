@@ -9,10 +9,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-            // string text = System.IO.File.ReadAllText("en_GB.dic");
-
-            // Display the file contents to the console. Variable text is a string.
-            // System.Console.WriteLine("Contents of WriteText.txt = {0}", text);
+           
 
 
 
@@ -20,12 +17,11 @@ namespace App
 
 
             Console.WriteLine(Encipher("xyza", 1));
-            Console.WriteLine(Encipher("z", 25));
+            Console.WriteLine(Encipher("Z A", 1));
             Console.WriteLine(Encipher("Caesar cipher? I prefer Caesar salad.", 25));
-            Console.WriteLine(Decipher("An education is what remains after we forget everything we have learned"));
 
               Console.WriteLine(Decipher("Bzdrzq bhogdq? H oqdedq Bzdrzq rzkzc."));
-              Console.WriteLine(Decipher("Hu lkbjhapvu pz doha ylthpuz hmaly dl mvynla lclyfaopun dl ohcl slhyulk."));
+              Console.WriteLine(Decipher("Hu lkbjhapvu pz doha ylthpuz hmaly dl mvynla clyfaopun dl ohcl slhyulk."));
  
         }
 
@@ -94,19 +90,21 @@ namespace App
         {
             string[] array = new string[s.Split().Length];//https://stackoverflow.com/questions/17812566/count-words-and-spaces-in-string-c-sharp
             string decipheredS = "";
+            int numberOfWordsNotFoundInDic = array.Length;
+            string BestChoice = "";
             for (int i = 1; i <= 26; i++)
             {
 
                 decipheredS = Encipher(s, i);
                   String pattern = @"\s-\s?|\s+?|[\\\?!/,:\""]\s?"; 
                  array =  System.Text.RegularExpressions.Regex.Split(decipheredS, pattern);
+               int wordsInScentence = array.Length;
+                int notWords = 0;
 
 
-                
 
-
-                bool allWords = true;
-                 foreach (string str in array)
+                 
+                foreach (string str in array)
                 {
                      string trimmedStr = str.Trim('?', ',', '!', ':', '"', '/', '\\', '-','.');
                    
@@ -121,17 +119,20 @@ namespace App
  
                     if (!trimmedStr.IsIndDic())
                         {
-                            allWords = false;
+                        
+                        notWords++;
                         }
                    
                 }
-                if (allWords)
-
-                    return decipheredS;
+                if (wordsInScentence - notWords > (wordsInScentence - numberOfWordsNotFoundInDic)) { 
+                    numberOfWordsNotFoundInDic = notWords;
+                 BestChoice = decipheredS;
+                 
+                }
             }
-            Console.WriteLine("i'm here");
+            
 
-            return s;
+            return BestChoice;
 
         }
 
@@ -141,13 +142,7 @@ namespace App
 
     public static class Extension
     {
-        //public static bool IsAWord(this string text)//https://social.msdn.microsoft.com/Forums/vstudio/en-US/72cacbb3-3a93-48f7-99c2-9eaa1c07cac4/check-if-string-is-word?forum=csharpgeneral
-        //{
-        //    var regex = new Regex(@"\b[\w']+\b"); 
-        //    var match = regex.Match(text);
-        //    return match.Value.Equals(text);
-        //}
-
+      
     public static bool IsIndDic(this string word) 
         {
 
